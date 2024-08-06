@@ -1,6 +1,7 @@
 return {
 
 	require("plugins.lsp-config"),
+	require("plugins.debugging"),
 	require("plugins.completions"),
 	require("plugins.alpha"),
 	require("plugins.none-ls"),
